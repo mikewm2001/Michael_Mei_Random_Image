@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Michael_Mei_randomImage</string>
+    <string name="button">Change Image</string>
+    <string name="image10k">baseline_10k_24 image</string>
+    <string name="image10mp">baseline_10mp_24 image</string>
+    <string name="image11mp">baseline_11mp_24 image</string>
+    <string name="imageAssistant">baseline_assistant_24 image</string>
+    <string name="imageBluetooth">baseline_bluetooth_24 image</string>
+    <string name="imageBatterysaver">baseline_batterysaver_24 image</string>
+    <string name="defaultText">Edit This</string>
+</resources>
